@@ -1,8 +1,8 @@
 # newapartment
 
-A new Flutter project.
+A new Flutter project with focuses in view listing and fetch data from internet.
 
-## Getting Started
+## Getting Started 
 
 This project is a starting point for a Flutter application.
 
